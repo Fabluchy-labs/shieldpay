@@ -109,6 +109,21 @@ GET| "/api/invoices"| Retrieve invoices
 POST| "/api/invoices"| Create an invoice
 
 Additional endpoints are planned as the backend develops.
+Why Stellar?
+
+ShieldPay aims to leverage the Stellar network to make business payments more transparent, accessible, and efficient.
+
+By integrating Stellar, the project plans to support:
+
+- Wallet Connectivity: Allow users to connect compatible Stellar wallets.
+- Blockchain Payments: Enable businesses to initiate payments through Stellar.
+- Transaction Verification: Verify payment transactions using Stellar network data.
+- Payment Transparency: Provide transaction references and confirmation statuses.
+- Testnet Development: Build and test blockchain functionality safely before considering production deployment.
+
+ShieldPay will initially use the Stellar Testnet for development and experimentation.
+
+The long-term goal is to explore how Stellar's fast, low-cost payment infrastructure can improve invoice settlement and payment tracking for businesses.
 
 Development Roadmap
 
